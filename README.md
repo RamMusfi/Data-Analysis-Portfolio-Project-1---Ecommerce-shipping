@@ -26,7 +26,8 @@ The goal: demonstrate end-to-end data analysis skills by building a **clean star
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+<img width="1767" height="989" alt="image" src="https://github.com/user-attachments/assets/582dc7cd-6a2b-4904-b50a-27e072a6fb08" />
+
 
 ---
 
